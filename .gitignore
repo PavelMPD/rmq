@@ -1,0 +1,37 @@
+# Python related files
+
+*.dat
+*.egg
+*.egg-info
+*.py[cod]
+.eggs
+TAGS
+build
+
+# Test related files
+
+*.log
+.coverage
+.coverage.*
+.testrepository/*
+.tox
+.venv
+cover
+celerybeat-schedule
+flake8_results.html
+htmlcov/
+venv
+env
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Editors
+*~
+.*.swp
+
+
+# PyCharm
+.idea/
